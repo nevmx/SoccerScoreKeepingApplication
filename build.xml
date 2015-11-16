@@ -19,4 +19,7 @@
       srcdir="src"
       destdir="${classdir}" />
   </target>
+  <target name="test" depends="init">
+    <echo message="Tests are empty." />
+  </target>
 </project>
