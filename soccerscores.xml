@@ -1,0 +1,94 @@
+<Manager id="1">
+  <teams id="2">
+    <Team id="3">
+      <name>Pakistan</name>
+      <points>0</points>
+      <players id="4">
+        <Player id="5">
+          <name>Younis</name>
+          <infractions id="6"/>
+          <shots id="7"/>
+          <team reference="3"/>
+        </Player>
+        <Player id="8">
+          <name>Imran</name>
+          <infractions id="9"/>
+          <shots id="10"/>
+          <team reference="3"/>
+        </Player>
+        <Player id="11">
+          <name>Owais</name>
+          <infractions id="12"/>
+          <shots id="13"/>
+          <team reference="3"/>
+        </Player>
+      </players>
+    </Team>
+    <Team id="14">
+      <name>England</name>
+      <points>0</points>
+      <players id="15">
+        <Player id="16">
+          <name>Finn</name>
+          <infractions id="17"/>
+          <shots id="18"/>
+          <team reference="14"/>
+        </Player>
+        <Player id="19">
+          <name>Cook</name>
+          <infractions id="20"/>
+          <shots id="21"/>
+          <team reference="14"/>
+        </Player>
+      </players>
+    </Team>
+    <Team id="22">
+      <name>Holland</name>
+      <points>0</points>
+      <players id="23"/>
+    </Team>
+    <Team id="24">
+      <name>Canada</name>
+      <points>0</points>
+      <players id="25">
+        <Player id="26">
+          <name>James</name>
+          <infractions id="27"/>
+          <shots id="28"/>
+          <team reference="24"/>
+        </Player>
+      </players>
+    </Team>
+    <Team id="29">
+      <name>Nigeria</name>
+      <points>0</points>
+      <players id="30">
+        <Player id="31">
+          <name>Safdar</name>
+          <infractions id="32"/>
+          <shots id="33"/>
+          <team reference="29"/>
+        </Player>
+        <Player id="34">
+          <name>Hamza</name>
+          <infractions id="35"/>
+          <shots id="36"/>
+          <team reference="29"/>
+        </Player>
+        <Player id="37">
+          <name>Daniyal</name>
+          <infractions id="38"/>
+          <shots id="39"/>
+          <team reference="29"/>
+        </Player>
+        <Player id="40">
+          <name>Bilal</name>
+          <infractions id="41"/>
+          <shots id="42"/>
+          <team reference="29"/>
+        </Player>
+      </players>
+    </Team>
+  </teams>
+  <matches id="43"/>
+</Manager>
