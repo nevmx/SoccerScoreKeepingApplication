@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<project name="SoccerScoreKeepingApplication" default="compile">
+  <property name="blddir" location="build" />
+  <property name="classdir" location="${blddir}/classes" />
+
+  <target name="clean">
+    <delete dir="${blddir}" />
+  </target>
+
+  <target name="init">
+    <mkdir dir="${blddir}" />
+    <mkdir dir="${classdir}" />
+  </target>
+
+  <target name="compile" depends="init">
+    <javac
+      includeantruntime="false"
+      srcdir="src"
+      destdir="${classdir}" />
+  </target>
+</project>
